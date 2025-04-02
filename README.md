@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Group12_Project_1.m)
+
 % Group 12 Code
 % Avery Ribich, Declan Roberts
 
